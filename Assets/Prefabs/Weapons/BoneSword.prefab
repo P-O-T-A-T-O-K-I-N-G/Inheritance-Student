@@ -98,7 +98,7 @@ MonoBehaviour:
   sr: {fileID: 0}
   boxCollider: {fileID: 0}
   canAttack: 1
-  attackDuration: 0.5
+  attackDuration: 0.1
   attackRate: 250
   damage: 28
   swingSpeed: 458
